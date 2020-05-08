@@ -1,0 +1,16 @@
+.card-container{
+
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    border-radius: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    transform: translate();
+   
+
+}
+
+.card-container:hover{
+    transform: scale(1.05);
+}
